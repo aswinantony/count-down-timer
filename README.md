@@ -1,6 +1,8 @@
 # count_down_timer
 
-App inspired by the news of our baby
+App inspired by the news of our baby. 
+
+This would be first flutter app for the development of an app which will have a count-down-timer showing number of days remaining for due date.
 
 ## Getting Started
 
